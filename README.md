@@ -1,4 +1,4 @@
-# WOOSUNG CHUNG's portfolio
+# WOOSUNG CHUNG's Portfolio
 
 This is my professional portfolio. It uses AWS and ReactJS.
 
